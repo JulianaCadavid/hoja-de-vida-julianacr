@@ -1,0 +1,27 @@
+{
+    "profile":{
+        "titulo": "Perfil", 
+        "descripcion": "Soy una estudiante de ingeniería de sistemas con la intención de crecer tanto profesional como personalmente brindando los conocimientos y capacidades que se adapten a los requerimientos del entorno. Además en mi deseo de aprender he adquirido un conocimiento amplio en lenguajes de programación y tecnologías como: Nodejs, Javascript, CSS, Python, SQL, Typescript, HTML, React Native, Angular y Docker."
+    },
+    "infoacad":{
+        "titulo": "Información académica"
+    }, 
+    "infolab":{
+        "titulo": "Información laboral"
+    }, 
+    "course":{
+        "titulo": "Cursos y certificados", 
+        "course1": "Ciberseguridad, Cisco Networking", 
+        "course2": "Introducción a redes Cisco Networking.", 
+        "course3": "React Native, Angular y Reactjs, Platzi.",
+        "course4": "Diseño web con HTML5 + CSS, Movistar.", 
+        "course5": "Inglés, Duolingo."
+    }, 
+    "proyects":{
+        "titulo": "Proyectos", 
+        "p1": "https://clima-jcr.netlify.app/", 
+        "p2": "https://cranky-williams-82eadc.netlify.app/", 
+        "p3": "https://optimistic-noether-740d36.netlify.app/",
+        "p4": "https://crud-cargo-deploy.vercel.app/"
+    }
+}

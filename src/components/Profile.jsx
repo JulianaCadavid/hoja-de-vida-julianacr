@@ -1,10 +1,14 @@
 import React from 'react';
 
-const Profile = ({ titulo, descripcion }) => {
-  <div className='divFlex text-center'>
-    <h3 className='subtitulo'>{titulo}</h3>
-    <p className='texto'>{descripcion}</p>
-  </div>;
-};
+const Profile = ({ titulo, descripcion }) => (
+  <div className='text-center'>
+    <h1 className='subtitulo text-ColorAzul font-medium font-family'>
+      {titulo}
+    </h1>
+    <p className='texto text-center text-ColorNegro font-family'>
+      {descripcion}
+    </p>
+  </div>
+);
 
 export default Profile;
