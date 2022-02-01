@@ -1,7 +1,6 @@
+import Principal from 'pages/Principal';
 import 'styles/globals.css';
 
-const App = () => {
-  return <div className='text-green-500'>Hoja de Vida</div>;
-};
+const App = () => <Principal />;
 
 export default App;
