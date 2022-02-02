@@ -15,9 +15,10 @@ const InfoLab = ({ titulo }) => (
       PROFESOR DE MATEMÁTICAS | CLASES Y TALLERES
     </h1>
     <p className='texto text-ColorNegro'>
-      Octubre 2021- Diciembre 2021. •Realización de talleres de materias como
-      matemáticas, inglés, cálculo, etc. •Exponer saberes a las personas que lo
-      necesitan.
+      Octubre 2021- Diciembre 2021. <br />
+      •Realización de talleres de materias como matemáticas, inglés, cálculo,
+      etc. <br />
+      •Exponer saberes a las personas que lo necesitan.
     </p>
   </div>
 );

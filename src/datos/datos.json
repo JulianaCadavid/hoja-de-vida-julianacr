@@ -23,5 +23,29 @@
         "p2": "https://cranky-williams-82eadc.netlify.app/", 
         "p3": "https://optimistic-noether-740d36.netlify.app/",
         "p4": "https://crud-cargo-deploy.vercel.app/"
+    }, 
+    "skill":{
+        "titulo": "Habilidades", 
+        "h1": "Desarrollo de frontend.", 
+        "h2": "Arquitectura de software.", 
+        "h3": "Seguridad Informática.",
+        "h4": "Servicio al cliente.",
+        "h5": "Gestión de proyectos.",
+        "h6": "Manejo del público.",
+        "h7": "Conocimientos en matemáticas.",
+        "h8": "Conocimientos en Machine Learning.",
+        "h9": "Trabajo en equipo."
+    }, 
+    "languages":{
+        "titulo": "Idiomas", 
+        "l1": "Español nativo", 
+        "l2": "Inglés medio"
+    }, 
+    "contact":{
+        "titulo": "Contacto", 
+        "c1": "LinkedIN", 
+        "dc1": "JULIANA CADAVID RAMÍREZ", 
+        "c2": "Github", 
+        "dc2": "JulianaCadavid"
     }
 }
