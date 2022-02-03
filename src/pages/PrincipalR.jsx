@@ -7,7 +7,7 @@ import Course from 'components/Course';
 import Proyectos from 'components/Proyects';
 
 const PrincipalR = () => (
-  <div className='items-left sm:flex'>
+  <div className='items-left sm:flex-col'>
     <div className='flex flex-col px-20 m-8 py-1'>
       <Profile titulo={datos.profile.titulo} />
       <p>{datos.profile.descripcion}</p>
