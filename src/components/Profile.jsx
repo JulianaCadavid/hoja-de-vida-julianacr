@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Profile = ({ titulo, descripcion }) => (
-  <div className='text-center'>
+  <div className='items-left'>
     <h1 className='subtitulo text-ColorAzul font-medium font-family'>
       {titulo}
     </h1>

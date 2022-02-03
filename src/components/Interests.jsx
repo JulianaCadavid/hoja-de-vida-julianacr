@@ -2,7 +2,7 @@ import React from 'react';
 
 const Interests = () => (
   <div>
-    <h1 className='subtitulo text-ColorNegro'>Intereses</h1>
+    <h1 className='subtitulo text-ColorNegro font-bold'>Intereses</h1>
     <p className='texto text-ColorNegro'>
       Desarrollo en Frontend (Angular, Reactjs y React Native). <br />
       Docente. <br />

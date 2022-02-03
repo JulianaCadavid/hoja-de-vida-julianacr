@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 const Info = () => (
   <div>
-    <h1 className='subtitulo text-ColorNegro'>INFO</h1>
+    <h1 className='subtitulo text-ColorNegro font-bold'>INFO</h1>
     <div className='flex flex-col'>
       <h1 className='subtitulo text-ColorSalmon'>Ubicación</h1>
       <div className='flex-row'>

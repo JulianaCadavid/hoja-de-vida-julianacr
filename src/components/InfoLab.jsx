@@ -1,7 +1,7 @@
 import React from 'react';
 
 const InfoLab = ({ titulo }) => (
-  <div className='text-center'>
+  <div>
     <h1 className='subtitulo text-ColorAzul'>{titulo}</h1>
     <h1 className='subtitulo text-ColorNegro'>
       FACULTAD DE INGENIERÍA DE SISTEMAS | TUTORÍAS

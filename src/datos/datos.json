@@ -42,10 +42,6 @@
         "l2": "Inglés medio"
     }, 
     "contact":{
-        "titulo": "Contacto", 
-        "c1": "LinkedIN", 
-        "dc1": "JULIANA CADAVID RAMÍREZ", 
-        "c2": "Github", 
-        "dc2": "JulianaCadavid"
+        "titulo": "Contacto"
     }
 }

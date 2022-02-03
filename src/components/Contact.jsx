@@ -1,12 +1,12 @@
 import React from 'react';
 
-const Contact = ({ titulo, c1, dc1, c2, dc2 }) => (
+const Contact = ({ titulo }) => (
   <div>
-    <h1 className='subtitulo text-ColorNegro'>{titulo}</h1>
-    <h1 className='subtitulo text-ColorSalmon'>{c1}</h1>
-    <h1 className='textp text-ColorNegro'>{dc1}</h1>
-    <h1 className='subtitulo text-ColorSalmon'>{c2}</h1>
-    <h1 className='textp text-ColorNegro'>{dc2}</h1>
+    <h1 className='subtitulo text-ColorNegro font-bold'>{titulo}</h1>
+    <h1 className='subtitulo text-ColorSalmon'>LinkedIn</h1>
+    <h1 className='textp text-ColorNegro'>JULIANA CADAVID RAMÍREZ</h1>
+    <h1 className='subtitulo text-ColorSalmon'>Github</h1>
+    <h1 className='textp text-ColorNegro'>Juliana Cadavid</h1>
   </div>
 );
 

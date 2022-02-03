@@ -1,7 +1,7 @@
 import React from 'react';
 
 const InfoAcad = ({ titulo }) => (
-  <div className='text-center'>
+  <div>
     <h1 className='subtitulo text-ColorAzul font-family'>{titulo}</h1>
     <h1 className='subtitulo text-ColorNegro font-family'>
       INGENIERÍA DE SISTEMAS / UNIVERSIDAD DE ANTIOQUIA

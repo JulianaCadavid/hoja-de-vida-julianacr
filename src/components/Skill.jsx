@@ -1,8 +1,8 @@
 import React from 'react';
 
 const Skill = ({ titulo, h1, h2, h3, h4, h5, h6, h7, h8, h9 }) => (
-  <div className='text-center'>
-    <h1 className='subtitulo text-ColorNegro'>{titulo}</h1>
+  <div>
+    <h1 className='subtitulo text-ColorNegro font-bold'>{titulo}</h1>
     <h1 className='texto text-ColorNegro'>{h1}</h1>
     <h1 className='texto text-ColorNegro'>{h2}</h1>
     <h1 className='texto text-ColorNegro'>{h3}</h1>
