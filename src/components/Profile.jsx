@@ -6,7 +6,7 @@ const Profile = () => (
       <h1 className='subtitulo text-ColorAzul font-medium font-family'>
         Perfil
       </h1>
-      <p className='texto text-center text-ColorNegro font-family'>
+      <p className='texto text-left text-ColorNegro font-family'>
         Soy una estudiante de ingeniería de sistemas con la intención de crecer
         tanto profesional como personalmente brindando los conocimientos y
         capacidades que se adapten a los requerimientos del entorno. Además en

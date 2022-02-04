@@ -1,8 +1,8 @@
 import React from 'react';
 
-const InfoLab = ({ titulo }) => (
+const InfoLab = () => (
   <div className='boxRound px-5 py-5'>
-    <h1 className='subtitulo text-ColorAzul'>{titulo}</h1>
+    <h1 className='subtitulo text-ColorAzul'>Información laboral</h1>
     <h1 className='subtitulo text-ColorNegro'>
       FACULTAD DE INGENIERÍA DE SISTEMAS | TUTORÍAS
     </h1>

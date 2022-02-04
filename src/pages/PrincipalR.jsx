@@ -1,5 +1,4 @@
 import React from 'react';
-import datos from 'datos/datos.json';
 import Profile from 'components/Profile';
 import InfoAcad from 'components/InfoAcad';
 import InfoLab from 'components/InfoLab';
@@ -12,10 +11,10 @@ const PrincipalR = () => (
       <Profile />
     </div>
     <div className='py-8 m-8'>
-      <InfoAcad titulo={datos.infoacad.titulo} />
+      <InfoAcad />
     </div>
     <div className='m-8'>
-      <InfoLab titulo={datos.infolab.titulo} />
+      <InfoLab />
     </div>
     <div className=' m-8'>
       <Course />
