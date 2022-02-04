@@ -4,11 +4,11 @@ import PrincipalR from 'pages/PrincipalR';
 import Navbar from 'components/Navbar';
 
 const Principal = () => (
-  <div className='flex flex-col sm:w-full'>
+  <div className='flex flex-col gap-y-3'>
     <Navbar />
-    <div className='flex sm:flex-row'>
-      <PrincipalL />
+    <div className='xl:flex sm:columns-1'>
       <PrincipalR />
+      <PrincipalL />
     </div>
   </div>
 );

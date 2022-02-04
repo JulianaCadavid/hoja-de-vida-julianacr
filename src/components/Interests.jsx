@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Interests = () => (
-  <div>
+  <div className='boxRound px-5 py-5'>
     <h1 className='subtitulo text-ColorNegro font-bold'>Intereses</h1>
     <p className='texto text-ColorNegro'>
       Desarrollo en Frontend (Angular, Reactjs y React Native). <br />
